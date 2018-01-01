@@ -10,7 +10,7 @@ The input are passed through the url and output is of the form of json
 To execute the file Clone the project and follow the steps :
 1.Install the modules by typing 'npm install' in the command prompt 
 2.Type the following in the url and see the results :
-    http://localhost:3000/api/address?origin={origin address}&destination={destination address}
+    http://localhost:3000/api/address?origin={origin-address}&destination={destination-address}
     http://localhost:3000/api/location/{location}
     http://localhost:3000/api/coordinates?lat={latitude}&long={longitude}
     
